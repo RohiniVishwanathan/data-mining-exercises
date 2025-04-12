@@ -6,11 +6,11 @@ This repository contains my completed Computer Exercises (CEs) and project work 
 
 | File Name | Description |
 |-----------|-------------|
-| `KDD_CE1_RV-4.ipynb` | CE1 – Data Preprocessing and Outlier Detection |
-| `CE2_RV-2.ipynb` | CE2 – Classification and Decision Trees (Model Evaluation, Confusion Matrix, ROC) |
-| `CE3_Assignment_Clustering_-2.ipynb` | CE3 – Clustering with K-means and Hierarchical methods |
-| `CE4_RV.ipynb` | CE4 – Model Evaluation: Accuracy, Lift, Stability |
-| `CE5_RV.ipynb` | CE5 – Association Rule Mining using Apriori Algorithm |
+| `Data Preprocessing & Outlier Detection` | CE1 – Data Preprocessing and Outlier Detection |
+| `Classification Models & Confusing Matrix Evaluation` | CE2 – Classification and Decision Trees (Model Evaluation, Confusion Matrix, ROC) |
+| `Clustering with K-Means & Hierarchial Methods` | CE3 – Clustering with K-means and Hierarchical methods |
+| `Model Evaluation- Accuracy, Lift, and Stability Analysis` | CE4 – Model Evaluation: Accuracy, Lift, Stability |
+| `Association Rule Mining with Apriori Algorithm` | CE5 – Association Rule Mining using Apriori Algorithm |
 | `HR_Attrition_Analysis_Rohini_Vishwanathan.ipynb` | Bonus Project – HR Attrition Analysis using Python |
 
 ## Tools & Libraries

@@ -11,6 +11,7 @@ This repository contains my completed Computer Exercises (CEs) and project work 
 | `Clustering with K-Means & Hierarchial Methods` | CE3 – Clustering with K-means and Hierarchical methods |
 | `Model Evaluation- Accuracy, Lift, and Stability Analysis` | CE4 – Model Evaluation: Accuracy, Lift, Stability |
 | `Association Rule Mining with Apriori Algorithm` | CE5 – Association Rule Mining using Apriori Algorithm |
+| `Neural Network Modeling & Hyperparameter Tuning` | CE6 – Neural Network Modeling & Hyperparameter Tuning |
 | `HR_Attrition_Analysis_Rohini_Vishwanathan.ipynb` | Bonus Project – HR Attrition Analysis using Python |
 
 ##  Model Parameters & Settings

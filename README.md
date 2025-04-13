@@ -13,7 +13,7 @@ This repository contains my completed Computer Exercises (CEs) and project work 
 | `Association Rule Mining with Apriori Algorithm` | CE5 – Association Rule Mining using Apriori Algorithm |
 | `HR_Attrition_Analysis_Rohini_Vishwanathan.ipynb` | Bonus Project – HR Attrition Analysis using Python |
 
-## 📌 Model Parameters & Settings
+##  Model Parameters & Settings
 
 | CE | Parameters & Settings Used |
 |----|----------------------------|

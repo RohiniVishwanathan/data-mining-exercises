@@ -1,4 +1,6 @@
 # Knowledge Discovery and Data Mining – Computer Exercises (Spring 2025)
+Hands-on projects from my graduate course in Knowledge Discovery and Data Mining | Classification, Clustering, Rule Mining, Neural Networks
+
 
 This repository contains my completed Computer Exercises (CEs) and project work from the **Knowledge Discovery and Data Mining** course at Claremont Graduate University.
 
@@ -7,8 +9,8 @@ This repository contains my completed Computer Exercises (CEs) and project work 
 | File Name | Description |
 |-----------|-------------|
 | `Data Preprocessing & Outlier Detection` | CE1 – Data Preprocessing and Outlier Detection |
-| `Classification Models & Confusing Matrix Evaluation` | CE2 – Classification and Decision Trees (Model Evaluation, Confusion Matrix, ROC) |
-| `Clustering with K-Means & Hierarchial Methods` | CE3 – Clustering with K-means and Hierarchical methods |
+| `Classification Models & Confusion Matrix Evaluation` | CE2 – Classification and Decision Trees (Model Evaluation, Confusion Matrix, ROC) |
+| `Clustering with K-Means & Hierarchical Methods` | CE3 – Clustering with K-means and Hierarchical methods |
 | `Model Evaluation- Accuracy, Lift, and Stability Analysis` | CE4 – Model Evaluation: Accuracy, Lift, Stability |
 | `Association Rule Mining with Apriori Algorithm` | CE5 – Association Rule Mining using Apriori Algorithm |
 | `Neural Network Modeling & Hyperparameter Tuning` | CE6 – Neural Network Modeling & Hyperparameter Tuning |
